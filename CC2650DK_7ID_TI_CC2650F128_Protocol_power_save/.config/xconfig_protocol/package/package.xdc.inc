@@ -1,0 +1,12 @@
+package.xdc
+package.xs
+package/xconfig_protocol.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b160
+package/.xdc-B06
+package/xconfig_protocol.java
+package/xconfig_protocol.class
+package/package_xconfig_protocol.c
+package/package.defs.h
+package/xconfig_protocol.ccs
